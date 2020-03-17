@@ -12,7 +12,37 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81cba1b0-af0b-432a-baf2-dba3455216b3" name="Default Changelist" comment="" />
+    <list default="true" id="81cba1b0-af0b-432a-baf2-dba3455216b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/benc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/C Header File.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/C Source File.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/benc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmdopts.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmdopts.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iopt.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iutil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target_i386.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.ic" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +74,11 @@
     </option>
     <option name="SCHEME" value="Project" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZDyhbJjO0WnnMBgI5WMHh8vGL9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -75,7 +109,7 @@
       <updated>1584388078686</updated>
       <workItem from="1584388081065" duration="15341000" />
       <workItem from="1584404529189" duration="47733000" />
-      <workItem from="1584461587918" duration="2168000" />
+      <workItem from="1584461587918" duration="2666000" />
     </task>
     <servers />
   </component>
