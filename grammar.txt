@@ -1,0 +1,26 @@
+
+lvalue:     lvalue '=' expr
+|           lvalue '[' expr ']'
+|           '*' expr
+|           NAME
+;
+
+expr:       expr '-' expr
+|           expr '+' expr
+|           expr '&' expr
+|           expr '|' expr
+|           expr '^' expr
+|           '-' expr
+|           '&' lvalue
+|           '(' expr ')'
+|           NUMBER
+|           lvalue
+;
+
+stmt:       ';'
+|           '{' stmt* '}'
+|           'if' '(' expr ')' stmt ('else' stmt)?
+|           'while' '(' expr ')' stmt
+|           'return' expr ';'
+|           expr ';'
+;
